@@ -30,7 +30,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/OtonyeR)>
+* **Otonye Robinson** <[OtonyeR](https://github.com/OtonyeR)>
 
 ## Acknowledgements :pray:
 
