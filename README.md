@@ -30,15 +30,12 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
+* **Tolulope Fakunle** <[Tolulope05](https://github.com/OtonyeR)>
 
 ## Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for
-ALX Africa SE. ALX Afica is an online full-stack software
-engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
-[this link](https://www.alxafrica.com//).
+ALX Africa software engineering program.
 
 <p align="center">
   <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
